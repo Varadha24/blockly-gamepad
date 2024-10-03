@@ -5,5 +5,5 @@
 [![npm version](https://badge.fury.io/js/blockly-gamepad.svg)](https://badge.fury.io/js/blockly-gamepad)
 [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
-> A [Blockly](https://developers.google.com/blockly/) extension designed to develop games (made with love ❤).
-
+> A [Blockly](https://developers.google.com/blockly/) extension.
+> 
